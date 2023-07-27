@@ -1,0 +1,7 @@
+python-dotenv==0.20.0
+python-telegram-bot==13.13
+requests==2.28.1
+vk-api==11.9.9
+google-cloud==0.34.0
+google-cloud-dialogflow==2.16.1
+aiogram==2.22.2
